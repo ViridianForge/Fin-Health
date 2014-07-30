@@ -1,0 +1,16 @@
+{
+  "version":"0.1",
+  "name":"Financial Health Monitor",
+  "description":"A minimalistic Open Web app that gives you insight to your financial health",
+  "launch_path":"/FinHealth.html",
+  "icons":{
+    "16":"/app-template/app-icons/icon-16.png",
+    "48":"/app-template/app-icons/icon-48.png",
+    "128":"/app-template/app-icons/icon-128.png"
+  },
+  "developer":{
+    "name":"Viridan Forge",
+    "url":"finHealth.viridianforge.com"
+  },
+  "default_locale":"en"
+}
